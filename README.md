@@ -1,2 +1,2 @@
 # ComprehensiveIntermediate02
-ああああああああああ
+java言語、学習内容
